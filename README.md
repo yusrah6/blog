@@ -49,10 +49,9 @@ To run blog_app locally, follow these steps:
         ```
 
 5.. **Run the application:**
-
- ```bash
+```bash
     python manage.py runserver
-    ```
+```
 Visit `http://127.0.0.1:8000` to access the application.
 ## Usage
 1. Create an account or log in if you already have one.
