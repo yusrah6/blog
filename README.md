@@ -9,7 +9,11 @@ This Python project is a web application that allows users to create and partici
 4. [Screenshots](#Screenshots)
 5. [credits](#credits)
 ## Project description
-blog app is designed to be a secure and user-friendly platform for creating and participating in blogs. This app helps users create and read blogs and creates a creative outlet and an entaintaining and education platform. 
+blog app is designed to be a secure and user-friendly platform for creating and participating in blogs. 
+### Importance of the Project
+
+This app helps users create and read blogs and creates a creative outlet and an entaintaining and education platform. 
+
 ## installation
 To run blog_app locally, follow these steps:
 1.**Clone the repository:**
@@ -57,7 +61,7 @@ Visit `http://127.0.0.1:8000` to access the application.
 
 
 ## Screenshots
-![Screenshot 2023-11-22 181655]
+![Screenshot 2023-11-22 181655]("Screenshot 2023-11-22 181655.png")
 
 ## credits
 This project is maintained by [Yusrah6](https://github.com/yusrah6). If you have any questions or need assistance, feel free to reach out.
