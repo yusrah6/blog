@@ -16,25 +16,27 @@ This app helps users create and read blogs and creates a creative outlet and an 
 
 ## installation
 To run blog_app locally, follow these steps:
-1.**Clone the repository:**
- 
+1. **Clone the repository:**
+
     ```bash
     git clone https://github.com/yusrah6/blog.git
     ```
 
-2. **Navigate to project directory:**
- 
-       ```bash
+2. **Navigate to the project directory:**
+
+    ```bash
     cd Polls_app_auth
     ```
 
 3. **Create a virtual environment:**
 
-       ```bash
+    ```bash
     python -m venv venv
     ```
-4. **Activate the virtual environment**
-- On Windows:
+
+4. **Activate the virtual environment:**
+
+    - On Windows:
 
         ```bash
         venv\Scripts\activate
@@ -42,13 +44,13 @@ To run blog_app locally, follow these steps:
 
     - On Unix or MacOS:
 
-          ```bash
+        ```bash
         source venv/bin/activate
         ```
 
 5.. **Run the application:**
 
-    ```bash
+ ```bash
     python manage.py runserver
     ```
 Visit `http://127.0.0.1:8000` to access the application.
