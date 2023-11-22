@@ -16,7 +16,6 @@ To run blog_app locally, follow these steps:
     ```bash
     git clone https://github.com/yusrah6/blog.git
     ```
-   >https://github.com/yusrah6/blog.git
 2. **Navigate to project directory:**
     ```bash
     cd Polls_app_auth
