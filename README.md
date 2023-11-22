@@ -1,4 +1,4 @@
-# blog app
+# blog_app
 This Python project is a web application that allows users to create and participate in blogs.
 
 # Table of Contents
@@ -11,7 +11,8 @@ This Python project is a web application that allows users to create and partici
 ## Project description
 blog app is designed to be a secure and user-friendly platform for creating and participating in blogs. This app helps users create and read blogs and creates a creative outlet and an entaintaining and education platform. 
 ## installation
-text
+To run blog_app locally, follow these steps:
+1. []
 
 ## Usage
 text
