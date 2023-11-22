@@ -24,13 +24,13 @@ To run blog_app locally, follow these steps:
 
 2. **Navigate to project directory:**
  
-    ```bash
+       ```bash
     cd Polls_app_auth
     ```
 
 3. **Create a virtual environment:**
 
-    ```bash
+       ```bash
     python -m venv venv
     ```
 4. **Activate the virtual environment**
@@ -42,7 +42,7 @@ To run blog_app locally, follow these steps:
 
     - On Unix or MacOS:
 
-        ```bash
+          ```bash
         source venv/bin/activate
         ```
 
