@@ -47,7 +47,7 @@ To run blog_app locally, follow these steps:
     ```bash
     python manage.py runserver
     ```
-Visit `http://localhost:3000` to access the application.
+Visit `http://127.0.0.1:8000` to access the application.
 ## Usage
 1. Create an account or log in if you already have one.
 2. Navigate to the blog section.
@@ -57,7 +57,7 @@ Visit `http://localhost:3000` to access the application.
 
 
 ## Screenshots
-text
+![Screenshot 2023-11-22 181655]
 
 ## credits
 This project is maintained by [Yusrah6](https://github.com/yusrah6). If you have any questions or need assistance, feel free to reach out.
