@@ -16,7 +16,8 @@ To run blog_app locally, follow these steps:
    >https://github.com/yusrah6/blog.git
 2. Navigate to project directory:
  >cd blog
-3. create a virtual environment python -m venv ven
+3. create a virtual environment python
+> -m venv ven
 4. Activate the virtual environment
 * On Windows: ven/Scripts/activate
 * On Unix or MacOs: source ven/bin/activate
