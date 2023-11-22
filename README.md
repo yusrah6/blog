@@ -13,14 +13,19 @@ blog app is designed to be a secure and user-friendly platform for creating and 
 ## installation
 To run blog_app locally, follow these steps:
 1.**Clone the repository:**
+ 
     ```bash
     git clone https://github.com/yusrah6/blog.git
     ```
+
 2. **Navigate to project directory:**
+ 
     ```bash
     cd Polls_app_auth
     ```
-3. **create a virtual environment python**
+
+3. **Create a virtual environment:**
+
     ```bash
     python -m venv venv
     ```
