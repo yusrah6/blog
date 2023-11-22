@@ -13,9 +13,9 @@ blog app is designed to be a secure and user-friendly platform for creating and 
 ## installation
 To run blog_app locally, follow these steps:
 1. Clone the repository:
-   https://github.com/yusrah6/blog.git
+   >https://github.com/yusrah6/blog.git
 2. Navigate to project directory:
- cd blog
+ >cd blog
 3. create a virtual environment python -m venv ven
 4. Activate the virtual environment
 * On Windows: ven/Scripts/activate
