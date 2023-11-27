@@ -47,8 +47,12 @@ To run blog_app locally, follow these steps:
         ```bash
         source venv/bin/activate
         ```
+5. **Install dependencies:**
 
-5.. **Run the application:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+6.. **Run the application:**
 ```bash
     python manage.py runserver
 ```
