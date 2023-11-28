@@ -25,7 +25,7 @@ To run blog_app locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd Polls_app_auth
+    cd Blog
     ```
 
 3. **Create a virtual environment:**
